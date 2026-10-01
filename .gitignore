@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Scratch & Debug logs
+*.log
+scratch/
+test_*.py
+step_*.py
+eval_*.py
+fix_*.py
+build_*.py
