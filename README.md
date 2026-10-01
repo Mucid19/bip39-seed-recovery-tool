@@ -85,7 +85,10 @@
 
 If this tool helped you recover your locked cryptocurrency and saved your assets, please consider supporting the project with a voluntary donation:
 
-- **Bitcoin (BTC)**: `bc1qxf5cfrxasshlkt79x0q805l9t3feer868en68nhlxmwetlr6sv4qdfda5s`
+- **Bitcoin (BTC)**:
+```text
+bc1qxf5cfrxasshlkt79x0q805l9t3feer868en68nhlxmwetlr6sv4qdfda5s
+```
 
 Your contributions help maintain this tool and build more open-source cryptographic security utilities.
 
